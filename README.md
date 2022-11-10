@@ -1,7 +1,5 @@
 Olá ✌
 
-📚 Cursando Analise e Desenvolvimento de Sistemas
-
 <div align="center"><br>
   <img align="center" alt="cSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="sqlServer" height="45" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
